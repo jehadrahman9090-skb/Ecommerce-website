@@ -124,13 +124,6 @@ a{
 /* iconarea end */
 
 
-
-
-
-
-
-
-
 .service{
     display:flex;
     justify-content:center;
@@ -191,20 +184,3 @@ p{
 .box .btn:hover{
     background-color:transparent;
 }
-
-
-
-
-@media (max-width:900px){
-    .container{
-        
-    }
-}
-
-
-
-
-
-
-
-
